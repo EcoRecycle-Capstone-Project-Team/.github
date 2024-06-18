@@ -32,5 +32,5 @@
 ## Struktur Repositori Link
 | No. | Role       | Repository Link                      |
 |-----|------------|--------------------------------------|
-| 1   | Front-end  | [Link to Front-end Repository](https://github.com/EcoRecycle-Capstone-Project-Team/FrontEnd-EcoRecycle)    |
-| 2   | Back-end   | [Link to Back-end Repository](https://github.com/EcoRecycle-Capstone-Project-Team/BackEndAPIEcorecycle)     |
+| 1   | Front-end  | [Front-end Repository](https://github.com/EcoRecycle-Capstone-Project-Team/FrontEnd-EcoRecycle)    |
+| 2   | Back-end   | [Back-end Repository](https://github.com/EcoRecycle-Capstone-Project-Team/BackEndAPIEcorecycle)     |
