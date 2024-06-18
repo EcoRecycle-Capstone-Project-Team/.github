@@ -6,7 +6,7 @@
 
 **EcoRecycle** adalah sebuah platform yang bergerak dalam pengelolaan sampah dan menyediakan informasi mengenai lokasi Tempat Pembuangan Akhir (TPA), bank sampah, serta sebaran sampah di Indonesia. Dengan EcoRecycle, kami bertujuan untuk membantu masyarakat dan pemerintah dalam menangani masalah sampah secara lebih efektif dan efisien.
 
-## 🌐 Website
+## Website
 - **URL**: [EcoRecycle](https://ecorecycle.my.id/)
 - **API**: [EcoRecycleAPI](https://api.ecorecycle.my.id/)
 
