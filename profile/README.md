@@ -1,14 +1,23 @@
-# EcoRecycle
+# EcoRecycle - Capstone Project - Tim C624-PS128
 
 <p align="center">
-  <img src="assets/MainLogo.png" alt="LogoEcoRecycle" width="200">
-  <h3 align="center">EcoRecycle (https://ecorecycle.my.id)</h3>
+  <img src="../assets/MainLogoWithBackground.png" alt="LogoEcoRecycle" width="350">
 </p>
 
 **EcoRecycle** adalah sebuah platform yang bergerak dalam pengelolaan sampah dan menyediakan informasi mengenai lokasi Tempat Pembuangan Akhir (TPA), bank sampah, serta sebaran sampah di Indonesia. Dengan EcoRecycle, kami bertujuan untuk membantu masyarakat dan pemerintah dalam menangani masalah sampah secara lebih efektif dan efisien.
 
-## Website Deploy
-[EcoRecycle](https://ecorecycle.my.id/)
+## 🌐 Website
+- **URL**: [EcoRecycle](https://ecorecycle.my.id/)
+- **API**: [EcoRecycleAPI](https://api.ecorecycle.my.id/)
+
+## Informasi Tim
+**TEAM ID:** `C624-PS128`  
+**TEMA:** `Green Economy dan Green Jobs`
+
+**LIST ANGGOTA:**
+1. **R1566YB481** - Isep Irmansyah - Sekolah Tinggi Teknologi Terpadu Nurul Fikri
+2. **R1726YB447** - M. Natasya Ramadana - Universitas Mikroskil
+3. **R3676YB456** - Mochammad Agus Dharma Kilin - Institut Teknologi Garut
 
 ## Fitur Utama
 
