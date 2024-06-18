@@ -8,9 +8,12 @@
 ## Fitur Utama
 
 - **Peta Interaktif**: Menampilkan lokasi TPA, bank sampah, dan sebaran sampah di seluruh Indonesia dengan legenda yang dapat dipilih sesuai kebutuhan.
-- **Informasi Lengkap**: Menyediakan informasi terperinci mengenai setiap lokasi TPA dan bank sampah, termasuk kapasitas, jenis sampah yang diterima, dan jam operasional.
-- **Cari Lokasi Terdekat**: Fitur sidebar yang memungkinkan pengguna untuk menemukan TPA atau bank sampah terdekat dari lokasi mereka.
-- **Galeri Dokumentasi**: Galeri foto yang menarik dan interaktif dengan kemampuan zoom in dan zoom out untuk melihat detail gambar.
+- **Cari Lokasi Terdekat**: Fitur Tampilkan Lokasi Terdekat memungkinkan pengguna untuk mengetahui lokasi TPA dan Bank Sampah terdekat dari lokasi pengguna yang telah terdaftar di EcoRecycle.
+- **Informasi Lokasi**: Menyediakan informasi terperinci mengenai setiap lokasi TPA dan bank sampah, dan jam operasional.
+- **Informasi Sebaran**: Menyediakan data mengenai sebaran sampah di Indonesia yang telah terdaftar serta kebutuhan yang harus diatasi terkait permasalahan sebaran sampah tersebut.
+- **Form Pelaporan Lokasi & Sebaran Sampah**: Menyediakan layanan untuk melaporkan lokasi TPA, bank sampah, serta sebaran sampah yang ingin didaftarkan dan ditindaklanjuti di EcoRecycle.
+- **Edukasi**: Menyediakan **Artikel** yang berisi informasi mengenai pengelolaan sampah, perkembangan terbaru mengenai isu sampah, serta tips & trik terkait pengelolaan sampah. Selain itu, terdapat **Galeri Dokumentasi** yang menampilkan foto-foto TPA, bank sampah, maupun sebaran sampah dari data yang berhasil dilaporkan di EcoRecycle.
+
 
 ## Struktur Repositori Link
 | No. | Role       | Repository Link                      |
