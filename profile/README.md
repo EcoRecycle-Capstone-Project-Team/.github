@@ -12,5 +12,8 @@
 - **Cari Lokasi Terdekat**: Fitur sidebar yang memungkinkan pengguna untuk menemukan TPA atau bank sampah terdekat dari lokasi mereka.
 - **Galeri Dokumentasi**: Galeri foto yang menarik dan interaktif dengan kemampuan zoom in dan zoom out untuk melihat detail gambar.
 
-## Struktur Proyek
-On Progress
+## Struktur Repositori Link
+| No. | Role       | Repository Link                      |
+|-----|------------|--------------------------------------|
+| 1   | Front-end  | [Link to Front-end Repository](https://github.com/EcoRecycle-Capstone-Project-Team/FrontEnd-EcoRecycle)    |
+| 2   | Back-end   | [Link to Back-end Repository](https://github.com/EcoRecycle-Capstone-Project-Team/BackEndAPIEcorecycle)     |
