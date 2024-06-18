@@ -1,12 +1,16 @@
-## Hi there 👋
+# EcoRecycle
 
-<!--
+**EcoRecycle** adalah sebuah platform yang bergerak dalam pengelolaan sampah dan menyediakan informasi mengenai lokasi Tempat Pembuangan Akhir (TPA), bank sampah, serta sebaran sampah di Indonesia. Dengan EcoRecycle, kami bertujuan untuk membantu masyarakat dan pemerintah dalam menangani masalah sampah secara lebih efektif dan efisien.
 
-**Here are some ideas to get you started:**
+## Website Deploy
+https://ecorecycle.my.id/
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Fitur Utama
+
+- **Peta Interaktif**: Menampilkan lokasi TPA, bank sampah, dan sebaran sampah di seluruh Indonesia dengan legenda yang dapat dipilih sesuai kebutuhan.
+- **Informasi Lengkap**: Menyediakan informasi terperinci mengenai setiap lokasi TPA dan bank sampah, termasuk kapasitas, jenis sampah yang diterima, dan jam operasional.
+- **Cari Lokasi Terdekat**: Fitur sidebar yang memungkinkan pengguna untuk menemukan TPA atau bank sampah terdekat dari lokasi mereka.
+- **Galeri Dokumentasi**: Galeri foto yang menarik dan interaktif dengan kemampuan zoom in dan zoom out untuk melihat detail gambar.
+
+## Struktur Proyek
+On Progress
